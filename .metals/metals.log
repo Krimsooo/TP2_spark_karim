@@ -1,0 +1,15 @@
+2022.03.11 14:54:04 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /mnt/d/Karim/Projets/data_engineering/TP2/.metals/lsp.trace.json or /home/kabed/.cache/metals/lsp.trace.json[0m
+2022.03.11 14:54:05 INFO  logging to file /mnt/d/Karim/Projets/data_engineering/TP2/.metals/metals.log[0m
+2022.03.11 14:54:05 INFO  Started: Metals version 0.11.2 in workspace '/mnt/d/Karim/Projets/data_engineering/TP2' for client Visual Studio Code 1.65.2.[0m
+2022.03.11 14:54:05 INFO  Parse release: 11.0.11[0m
+2022.03.11 14:54:09 INFO  time: initialize in 3.89s[0m
+2022.03.11 14:54:10 WARN  Build server is not auto-connectable.[0m
+2022.03.11 14:54:10 WARN  no build tool detected in workspace '/mnt/d/Karim/Projets/data_engineering/TP2'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2022.03.11 14:54:13 WARN  no build target for: /mnt/d/Karim/Projets/data_engineering/TP2/spark-df/src/main/scala/fr/data/spark/DataFrame.scala[0m
+2022.03.11 14:54:19 INFO  no build target found for /mnt/d/Karim/Projets/data_engineering/TP2/spark-df/src/main/scala/fr/data/spark/DataFrame.scala. Using presentation compiler with project's scala-library version: 3.1.1[0m
+2022.03.11 14:54:23 INFO  time: code lens generation in 9.29s[0m
+2022.03.11 15:16:14 WARN  no build target for: /mnt/d/Karim/Projets/data_engineering/TP2/spark-df/src/main/scala/fr/data/spark/DataFrame.scala[0m
+2022.03.11 15:16:35 WARN  no build target for: /mnt/d/Karim/Projets/data_engineering/TP2/spark-df/src/main/scala/fr/data/spark/DataFrame.scala[0m
+2022.03.11 15:19:27 WARN  no build target for: /mnt/d/Karim/Projets/data_engineering/TP2/spark-df/src/main/scala/fr/data/spark/DataFrame.scala[0m
+2022.03.11 15:36:18 INFO  time: code lens generation in 1.47s[0m
+2022.03.11 15:38:08 INFO  shutting down Metals[0m

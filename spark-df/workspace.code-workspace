@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"name": "Big Data Frameworks I",
+			"path": "..\\..\\..\\..\\OneDrive - Efrei\\SEMESTRE 7\\Big Data Frameworks I"
+		},
+		{
+			"name": "Data Science with Python",
+			"path": "..\\..\\..\\..\\OneDrive - Efrei\\SEMESTRE 7\\Data Science with Python"
+		},
+		{
+			"name": "Data Vizualisation",
+			"path": "..\\..\\..\\..\\OneDrive - Efrei\\SEMESTRE 7\\Data Vizualisation"
+		},
+		{
+			"name": "Functional Programming with  Scala",
+			"path": "..\\..\\..\\..\\OneDrive - Efrei\\SEMESTRE 7\\Functional Programming with  Scala"
+		},
+		{
+			"name": "Machine Learning",
+			"path": "..\\..\\..\\..\\OneDrive - Efrei\\SEMESTRE 7\\Machine Learning"
+		},
+		{
+			"name": "Projets",
+			"path": "..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\OneDrive - Efrei\\NoSQL Databases"
+		}
+	],
+	"settings": {
+		"files.watcherExclude": {
+			"**/target": true
+		}
+	}
+}

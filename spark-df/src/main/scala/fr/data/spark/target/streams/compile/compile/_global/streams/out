@@ -1,0 +1,16 @@
+[0m[[0m[31merror[0m] [0m[0mD:\Karim\Projets\data_engineering\TP2\spark-df\src\main\scala\fr\data\spark\DataFrame.scala:3:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.{SparkConf, SparkContext, sql}[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Karim\Projets\data_engineering\TP2\spark-df\src\main\scala\fr\data\spark\DataFrame.scala:4:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Karim\Projets\data_engineering\TP2\spark-df\src\main\scala\fr\data\spark\DataFrame.scala:5:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.functions._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Karim\Projets\data_engineering\TP2\spark-df\src\main\scala\fr\data\spark\DataFrame.scala:12:20: not found: type SparkConf[0m
+[0m[[0m[31merror[0m] [0m[0m    val conf = new SparkConf()[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Karim\Projets\data_engineering\TP2\spark-df\src\main\scala\fr\data\spark\DataFrame.scala:16:14: not found: value SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m    val ss = SparkSession.builder()[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m
